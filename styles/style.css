@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    font-family: poppins;
+}
+
+
+.top-header{
+    background-color: #fff9ea;
+    
+    
+    
+
+}
+.nav-container{
+    display: flex;
+     justify-content: space-around;
+     align-items: center;
+     height: 90px;
+     margin: 0px 100px;
+
+
+
+}
+ul>li{
+     list-style: none;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.nav-menu{
+     display: flex;
+     gap: 40px
+     ;
+}
+.sign-in-button{
+    padding: 8px 18px ;
+    border-radius: 20px;
+    background-color: #ffcb45;
+    border: none;
+    font-weight: 600;
+    
+
+}
+.fa-solid{
+    margin-right: 15px;
+}
+.nav-icon{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+
+}
+/* hero-section style
+ */
+.hero-container{background-image: url(../images/shapes\ \(1\).png);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+.hero-parent{
+    
+    display: flex;
+ justify-content: space-between;
+}
+.one{
+    width: 600px ;
+    display: flex;
+    align-items: center;
+
+}
+.two{font-size: 36px;line-height: 45px;
+
+
+
+
+
+
+}
+.three{
+    color: #ffcb45;
+}
+.four{
+    font-size: 14px;
+}
+.water{
+    display: flex;
+    justify-content: space-between;
+}
+.fire{
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 2px;
+
+    
+;
+
+}
+.colour{
+    color: #ffcb45;
+}
+.earth{
+    padding: 150px 50px;
+}
